@@ -1,13 +1,18 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.FrontPage {
+  background-image: url("https://img.freepik.com/premium-vector/set-dogs-white-background-cartoon-design_530689-756.jpg?w=2000");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: top center;
+  background-size: 1100px 85vh;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.logo {
+  border-radius: "10px";
+  width: "5px";
+  height: "5px";
+}
+
+.CareTips {
+  background-image: url("https://res.cloudinary.com/dsv5gok4c/image/upload/v1664490932/PetsCare_hgh5jm.jpg");
+  background-repeat: no-repeat;
 }
